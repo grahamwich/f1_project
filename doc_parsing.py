@@ -37,7 +37,6 @@ time_penalties = []
 
 
 
-
 # track 2 cars across a turn,      assign to a time penalty
 # [distances across # of frames] : 00:05 (5 seconds)
 

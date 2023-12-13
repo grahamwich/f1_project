@@ -4,3 +4,5 @@ decision document (tsunoda): https://www.fia.com/sites/default/files/decision-do
 all penalties: https://f1penalties.com/#
 
 pdfminer that worked better than stupid bullshit pydblahblahblah: https://pypi.org/project/pdfminer/
+
+blah blah blah test thing 

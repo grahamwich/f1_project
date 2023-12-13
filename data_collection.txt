@@ -1,0 +1,6 @@
+spanish gp,tsunoda penalty video: https://www.formula1.com/en/latest/video.2023-spanish-grand-prix-the-battle-with-zhou-that-earned-tsunoda-a-late-penalty-in-barcelona.1767786143998221608.html
+decision document (tsunoda): https://www.fia.com/sites/default/files/decision-document/2023%20Spanish%20Grand%20Prix%20-%20Infringement%20-%20Car%2022%20-%20Forcing%20another%20driver%20off%20the%20track.pdf
+
+all penalties: https://f1penalties.com/#
+
+pdfminer that worked better than stupid bullshit pydblahblahblah: https://pypi.org/project/pdfminer/
